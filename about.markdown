@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+# I am a Stats major at BYU and a huge sports fan. Go Cougs!
 
