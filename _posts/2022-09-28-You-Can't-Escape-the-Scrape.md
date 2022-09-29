@@ -4,7 +4,7 @@ title:  You Can't Escape the Scrape!
 date:   2022-09-28
 author: Bradley Brown
 description: A short tutorial to help you run towards scraping data from the internet using R rather than away from it.
-image: /assets/images/TSL_blog_Banner-1.png
+image: /assets/images/basic-webscraping.png
 ---
 
 What is the most essential part of doing work in the field of statistics? Having good data of course. While it is possible to collect your own data and make your own data frames for your work, it is much easier to build on the shoulders of those who came before. The internet is full of data that has already been collected and is just begging to be analyzed by us statisticians. I remember I avoided scraping data from the internet like the plague when I first started statistical work. It was intimidating, but eventually I could no longer escape the need to scrape date from the internet. Once I learned how to do it simply, it was no longer something to fear, but something to look forward to. Thus, today I will give a short how-to when it comes to scraping data from the internet using R.
