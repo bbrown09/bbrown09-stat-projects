@@ -31,7 +31,7 @@ page.status_code
 Since there was 8 different pages, I manually updated the code by 1 number every time to grab the different pages I needed. The results were great after I combined my data altogether. You can check out the data in my repository as well as the code to scrape it [here](https://github.com/bbrown09/Pitching_Stats_Project).
 
 ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
-](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/2022-10-19(1).png)
+](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Baseballstats.png)
 
 Conclusion
 
