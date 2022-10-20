@@ -7,7 +7,7 @@ description: Have you ever seen Moneyball? This is my attempt to become like Bra
 image: /assets/images/Moneyball-your-supply-chain-1280x720.jpg
 ---
 
-	For anyone interested in sports even a little bit, October is easily recognized as the best month for these games we love. Basketball is starting its season, football is about halfway through its own season, and of course there is plenty of soccer to go around as well. Most importantly though, the Baseball playoffs start and end in October with the World Series capping off another season of America’s pastime. This of course makes me want to do whatever I can to dive into the stats of Baseball, particularly its pitching stats as they are the most intriguing to me. 
+For anyone interested in sports even a little bit, October is easily recognized as the best month for these games we love. Basketball is starting its season, football is about halfway through its own season, and of course there is plenty of soccer to go around as well. Most importantly though, the Baseball playoffs start and end in October with the World Series capping off another season of America’s pastime. This of course makes me want to do whatever I can to dive into the stats of Baseball, particularly its pitching stats as they are the most intriguing to me. 
 
 America’s pastime
 
