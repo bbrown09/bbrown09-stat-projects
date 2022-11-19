@@ -37,15 +37,15 @@ The tiebreaker appears to go in the favor of the pitchers actually being slightl
   
 Lastly, I thought I’d look at how much homeruns actually impacted wins or saves. It seems like for both stats, the average hovered around 6 HRs for the whole year but went gradually down depending on how much success the pitcher had. Imagine pitching in 74 games like Steve Cishek in 2021, only giving up 2 homeruns all year, and not earning a single save or win. He seems to be an outlier luckily. 
   
-    ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
+  ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
 ](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Homeruns_Compared_to_Saves.png)
 
-    ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
+  ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
 ](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Homeruns_Compared_to_Wins.png)
  
 And on a similar note, here is an interesting graph showing how often pitchers converted their save opportunities into actual saves.
   
-      ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
+  ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
 ](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Saves_Vs_Save_Opportunities.png)
  
 Conclusion
