@@ -28,24 +28,25 @@ Let’s do the same thing and look at hits over the years to see if our pitchers
 It seems that pitchers have sacrificed one important stat for another. But just for the tie breaker lets look at the most important stat in baseball: whether or not the other team actually scored on them. To do this we look at ERA which considers how many runs a pitcher actually gives up as opposed to runs given up to his teammates playing poorly. 
   
   ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
-](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/ERA_By_Year.png)
+](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/ERA_By_Year.png)
   
 The tiebreaker appears to go in the favor of the pitchers actually being slightly worse it seems because they are giving up more runs on average even if other numbers might suggest otherwise. Does this mean that hitters are just adapting to better pitching? If we look at the number of strikeouts per year, those seem to go up. The theory I tend to agree with is that pitchers have gotten better overall, plus the defense has started to use statistics to shift field position and make it harder for players to get regular hits, so batters have started to swing for the fences more to guarantee points and a hit. Thus, they get more strikeouts trying too hard to hit homeruns. 
   
   ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
-](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/Strikeouts_By_Year.png)
+](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Strikeouts_By_Year.png)
   
 Lastly, I thought I’d look at how much homeruns actually impacted wins or saves. It seems like for both stats, the average hovered around 6 HRs for the whole year but went gradually down depending on how much success the pitcher had. Imagine pitching in 74 games like Steve Cishek in 2021, only giving up 2 homeruns all year, and not earning a single save or win. He seems to be an outlier luckily. 
   
     ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
-](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/Homeruns_Compared_to_Saves.png)
+](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Homeruns_Compared_to_Saves.png)
+
     ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
-](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/Homeruns_Compared_to_Wins.png)
+](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Homeruns_Compared_to_Wins.png)
  
 And on a similar note, here is an interesting graph showing how often pitchers converted their save opportunities into actual saves.
   
       ![/assets/images/1_f2-zeAOSNB4RGlqH9emTlQ.jpeg
-](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/Saves_Vs_Save_Opportunities.png)
+](https://raw.githubusercontent.com/bbrown09/bbrown09-stat-projects/main/assets/images/Saves_Vs_Save_Opportunities.png)
  
 Conclusion
   
