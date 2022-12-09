@@ -16,9 +16,9 @@ The Data Story
   
   After studying the data and visualizations with my question in mind about what helped Aaron Judge to break the homerun record this year, I believe I have found the story that this data is trying to tell. It would be easy to say that Aaron Judge is just a generational talent when it comes to hitting homeruns, and that is probably also a little true, but as we look at the trends of homeruns given up over the years by pitchers compared to strikeouts, we can see an obvious trend of strikeouts going up as well as homeruns. To me this says that neither pitchers or batters are getting better or worse overall. Instead, an outside factor is influencing the game. My belief is that the culprit is actually the shift by the defense. Recently defenses have been using statistics to move to the parts of the field where batters are most likely to hit. This makes it harder to hit base hits, so batters are forced to improvise or hit it right to the defense. Ultimately, the swing for the fences mentality was created, or more likely, grown more noticeable. Batters swing more out of control which rewards them with more homeruns, but also more strikeouts. Thus, a new homerun king was born.
 
-{% include Homeruns2013-2021 %}
+{% include Homeruns2013-2021.html %}
 
-{% include Strikeouts2013-2021 %}
+{% include Strikeouts2013-2021.html %}
   
 Conclusion
 
